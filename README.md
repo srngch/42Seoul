@@ -1,4 +1,4 @@
-[![42](https://img.shields.io/badge/BornToCode-sarchoi-ffc222?style=for-the-badge&logo=42)](https://42seoul.kr/)
+[![42](https://img.shields.io/badge/BornToCode-sarchoi-292D39?style=for-the-badge&logo=42&labelColor=292D39&color=ffc222)](https://42seoul.kr/)
 
 # C Piscine
 
@@ -26,7 +26,7 @@
 [![libft](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42libft&show_owner=true)](https://github.com/srngch/42libft)
 
 
-This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.
+This project is your very first project as a student at 42. You will need to recode a few functions of the `C standard library` as well as some other utility functions that you will use during your whole cursus.
 	
 - Rigor, Imperative programming, Algorithms
 	
@@ -38,7 +38,7 @@ This project is your very first project as a student at 42. You will need to rec
 
 [![42gnl](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42gnl&show_owner=true)](https://github.com/srngch/42gnl)
 
-May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects.
+May it be a file, `stdin`, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects.
 
 - Rigor, Unix, Algorithms
 
@@ -49,7 +49,7 @@ May it be a file, stdin, or even later a network connection, you will always nee
 
 [![42printf](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42printf&show_owner=true)](https://github.com/srngch/42printf)
 
-This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects.
+This project is pretty straightforward, you have to recode `printf`. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects.
 
 - Rigor, Algorithms
 
@@ -66,12 +66,12 @@ This project aims to introduce you to the wonderful world of virtualization.
 
 ---
 
-### so_long(WIP)
-[![sarchoi's so_long Score](https://badge42.herokuapp.com/api/project/sarchoi/so_long)](https://projects.intra.42.fr/so_long/sarchoi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+### so_long
+[![sarchoi's so_long Score](https://badge42.herokuapp.com/api/project/sarchoi/so_long)](https://projects.intra.42.fr/so_long/sarchoi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) [![minilibx](https://img.shields.io/badge/minilibx-_?style=for-the-badge&color=555555)](https://github.com/42Paris/minilibx-linux)
 
 [![42so_long](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42so_long&show_owner=true)](https://github.com/srngch/42so_long)
 
-This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.
+This project is a small 2D game with `minilibx`. You'll learn about textures, sprites and tiles.
 
 - Game, Graphics, Imperative programming
 
