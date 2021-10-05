@@ -10,10 +10,22 @@
 
 # Cursus
 
-- 2021.5 ~ (now)
+- 2021.5 ~ Present
 - 42Seoul Cadet
 
 [![sarchoi's 42 stats](https://badge42.herokuapp.com/api/stats/sarchoi?privacyName=true)](https://github.com/srngch/42Seoul)
+
+## JS Piscine
+
+[![JsPiscine](https://github-readme-stats.vercel.app/api/pin/?username=42js&repo=piscine&show_owner=true)](https://github.com/42js/piscine)
+
+Subject-based short-term curriculum operated by Cadets of the 42 official community [42JS](https://github.com/42js).
+
+Participated in project production, especially JS01(Javasciprt DOM API), BE00(Node.js Basics) , BE01(Sequelize ORM), RUSH01(Full-Stack Group Project)
+
+<a href="https://github.com/42js/js-piscine-beta-2021-08">
+  <img src="https://42js.vercel.app/api/v1/certificate/js-piscine-beta/staff/sarchoi" alt="sarchoi" width="350px" />
+</a>
 
 ## Subjects
 
@@ -89,6 +101,6 @@ The purpose of this project is to code a small data exchange program using UNIX 
 ---
 
 ##### References
-- [badge42](https://github.com/JaeSeoKim/badge42): stats card and score badge
+- [badge42](https://github.com/JaeSeoKim/badge42): stats cards and score badges
 - [shields.io](https://shields.io/): language badges
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): repo cards
