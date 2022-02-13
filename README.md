@@ -89,13 +89,27 @@ This project is a small 2D game with `minilibx`. You'll learn about textures, sp
 
 ---
 
-### minitalk(WIP)
+### minitalk
 
 [![sarchoi's minitalk Score](https://badge42.herokuapp.com/api/project/sarchoi/minitalk)](https://projects.intra.42.fr/minitalk/sarchoi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
+[![42minitalk](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42minitalk&show_owner=true)](https://github.com/srngch/42minitalk)
 
 The purpose of this project is to code a small data exchange program using UNIX signals. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.
 
 - Rigor, Unix
+
+---
+
+### push_swap
+
+[![sarchoi's push_swap Score](https://badge42.herokuapp.com/api/project/sarchoi/push_swap)](https://projects.intra.42.fr/push_swap/sarchoi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
+[![42push_swap](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42push_swap&show_owner=true)](https://github.com/srngch/42push_swap)
+
+This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.
+
+- Imperative programming, Rigor, Unix, Algorithms
 
 ---
 ---
