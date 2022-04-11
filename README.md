@@ -6,14 +6,14 @@
 - Review post: [42서울 본과정 합격 - 순수 미술 전공자가 라 피신에 참여하여 배운 것들](https://blog.srngch.com/42seoul-la-piscine/)
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-009331?style=flat-square&logo=Vim&logoColor=white)
 
-[![sarchoi's 42 stats - C Piscine](https://badge42.herokuapp.com/api/stats/sarchoi?cursus=C%20Piscine)](https://github.com/srngch)
+[![sarchoi's 42 stats - C Piscine](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/stats?cursusId=9&coalitionId=piscine)](https://github.com/srngch)
 
 # Cursus
 
 - 2021.5 ~ Present
 - 42Seoul Cadet
 
-[![sarchoi's 42 stats](https://badge42.herokuapp.com/api/stats/sarchoi?privacyName=true)](https://github.com/srngch/42Seoul)
+[![sarchoi's 42 stats](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/stats?cursusId=21&coalitionId=85)](https://github.com/srngch/42Seoul)
 
 ## JS Piscine
 
@@ -33,7 +33,8 @@ Participated in project production, especially JS01(Javasciprt DOM API), BE00(No
 
 ### Libft 
 
-[![sarchoi's Libft Score](https://badge42.herokuapp.com/api/project/sarchoi/Libft)](https://projects.intra.42.fr/42cursus-libft/sarchoi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+[![sarchoi's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/project/2166567)](https://projects.intra.42.fr/42cursus-libft/sarchoi)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
 [![libft](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42libft&show_owner=true)](https://github.com/srngch/42libft)
 
@@ -46,7 +47,8 @@ This project is your very first project as a student at 42. You will need to rec
 
 ### get_next_line
 
-[![sarchoi's get_next_line Score](https://badge42.herokuapp.com/api/project/sarchoi/get_next_line)](https://projects.intra.42.fr/42cursus-get_next_line/sarchoi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+[![sarchoi's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/project/2171891)](https://projects.intra.42.fr/42cursus-get_next_line/sarchoi)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
 [![42gnl](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42gnl&show_owner=true)](https://github.com/srngch/42gnl)
 
@@ -57,7 +59,8 @@ May it be a file, `stdin`, or even later a network connection, you will always n
 ---
 
 ### ft_printf
-[![sarchoi's ft_printf Score](https://badge42.herokuapp.com/api/project/sarchoi/ft_printf)](https://projects.intra.42.fr/42cursus-ft_printf/sarchoi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+[![sarchoi's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/project/2174697)](https://projects.intra.42.fr/42cursus-ft_printf/sarchoi)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
 [![42printf](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42printf&show_owner=true)](https://github.com/srngch/42printf)
 
@@ -68,7 +71,8 @@ This project is pretty straightforward, you have to recode `printf`. You will le
 ---
 
 ### Born2beroot
-[![sarchoi's Born2beroot Score](https://badge42.herokuapp.com/api/project/sarchoi/Born2beroot)](https://projects.intra.42.fr/born2beroot/sarchoi) ![VirtualBox](https://img.shields.io/badge/VirtualBox-193861?style=for-the-badge&logo=VirtualBox) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+[![sarchoi's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/project/2178401)](https://projects.intra.42.fr/born2beroot/sarchoi)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-193861?style=for-the-badge&logo=VirtualBox) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 - [Log](https://srngch.github.io/born2beroot/)
 
@@ -79,7 +83,8 @@ This project aims to introduce you to the wonderful world of virtualization.
 ---
 
 ### so_long
-[![sarchoi's so_long Score](https://badge42.herokuapp.com/api/project/sarchoi/so_long)](https://projects.intra.42.fr/so_long/sarchoi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) [![minilibx](https://img.shields.io/badge/minilibx-_?style=for-the-badge&color=555555)](https://github.com/42Paris/minilibx-linux)
+[![sarchoi's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/project/2262954)](https://projects.intra.42.fr/so_long/sarchoi)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) [![minilibx](https://img.shields.io/badge/minilibx-_?style=for-the-badge&color=555555)](https://github.com/42Paris/minilibx-linux)
 
 [![42so_long](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42so_long&show_owner=true)](https://github.com/srngch/42so_long)
 
@@ -90,8 +95,8 @@ This project is a small 2D game with `minilibx`. You'll learn about textures, sp
 ---
 
 ### minitalk
-
-[![sarchoi's minitalk Score](https://badge42.herokuapp.com/api/project/sarchoi/minitalk)](https://projects.intra.42.fr/minitalk/sarchoi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+[![sarchoi's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/project/2363150)](https://projects.intra.42.fr/minitalk/sarchoi)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
 [![42minitalk](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42minitalk&show_owner=true)](https://github.com/srngch/42minitalk)
 
@@ -102,14 +107,24 @@ The purpose of this project is to code a small data exchange program using UNIX 
 ---
 
 ### push_swap
-
-[![sarchoi's push_swap Score](https://badge42.herokuapp.com/api/project/sarchoi/push_swap)](https://projects.intra.42.fr/push_swap/sarchoi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+[![sarchoi's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/project/2262970)](https://projects.intra.42.fr/42cursus-push_swap/sarchoi)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
 [![42push_swap](https://github-readme-stats.vercel.app/api/pin/?username=srngch&repo=42push_swap&show_owner=true)](https://github.com/srngch/42push_swap)
 
 This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.
 
 - Imperative programming, Rigor, Unix, Algorithms
+
+---
+
+### Philosophers
+[![sarchoi's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/project/2496203)](https://projects.intra.42.fr/42cursus-philosophers/sarchoi)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
+In this project, you will learn the basics of threading a process. You will see how to create threads and you will discover mutexes.
+
+- Unix, Rigor, Imperative programming
 
 ---
 ---
